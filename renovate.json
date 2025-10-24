@@ -1,4 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "minimumReleaseAge": "100 days"
+  "minimumReleaseAge": "100 days",
+  "dependencyDashboard": true
 }
