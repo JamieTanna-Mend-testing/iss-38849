@@ -1,2 +1,2 @@
 # NOTE that this doesn't have `releaseTimestamp`
-FROM ghcr.io/renovatebot/base-image:10.67.5@sha256:d67e849707f38e11c8674a59d3fffef1ea6977757f3a65d9d1a3a198bdd160cf AS slim-base
+FROM ghcr.io/renovatebot/base-image:11.40.6@sha256:827f00bdb0f2c9a6896fbc6ab1a99ed855c0fe4dc61313629401f780ee16e699 AS slim-base
